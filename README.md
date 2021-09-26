@@ -34,6 +34,12 @@ This is Document editor web app made with React.Js and React Draft Wysiwyg (NPM 
 - CSS
 - Visual Studio Code
 - Git & GitHub <br/>
+
+
+# How it look's 🤩
+  <img src="./screenShots/S1.png">
+  <img src="./screenShots/S2.png">
+  
 # Some important information about React
 
  
