@@ -23,7 +23,7 @@
 </p>
 
 
-# Project Name : Covid-19
+# Project Name : DocE
 
 This is Document editor web app made with React.Js and React Draft Wysiwyg (NPM Package)<br/> <br/>
 
